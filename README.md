@@ -1,1 +1,2 @@
-# prog_2_02220131031_A_2023
+Taller 1:
+https://github.com/Mariajose2812/1Taller_programacion-
